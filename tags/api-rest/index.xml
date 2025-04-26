@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>API REST on Meu Portofólio</title>
+    <link>http://localhost:1313/tags/api-rest/</link>
+    <description>Recent content in API REST on Meu Portofólio</description>
+    <image>
+      <title>Meu Portofólio</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/api-rest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desenvolvimento de Expense Tracker com Express.js</title>
+      <link>http://localhost:1313/posts/expense/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/expense/</guid>
+      <description>&lt;p&gt;Com o objetivo de aprimorar meus conhecimentos em desenvolvimento web backend, desenvolvi um &lt;strong&gt;Expense Tracker&lt;/strong&gt; utilizando &lt;strong&gt;Node.js&lt;/strong&gt; e &lt;strong&gt;Express.js&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;O projeto permite aos usuários:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cadastrar entradas de despesas.&lt;/li&gt;
+&lt;li&gt;Visualizar o total de gastos acumulados.&lt;/li&gt;
+&lt;li&gt;Editar e excluir transações existentes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tecnologias utilizadas:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Express.js&lt;/strong&gt; para criação do servidor e das rotas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Criação de API REST&lt;/strong&gt; seguindo o padrão CRUD (Create, Read, Update, Delete).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTML/CSS&lt;/strong&gt; básico para a interface inicial.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JSON&lt;/strong&gt; para armazenamento dos dados (planejo migrar para banco de dados futuramente).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Principais aprendizados:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
