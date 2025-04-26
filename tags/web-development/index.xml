@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Web Development on Meu Portofólio</title>
-    <link>http://localhost:1313/tags/web-development/</link>
+    <link>https://kenjilkkk.github.io/tags/web-development/</link>
     <description>Recent content in Web Development on Meu Portofólio</description>
     <image>
       <title>Meu Portofólio</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://kenjilkkk.github.io/images/papermod-cover.png</url>
+      <link>https://kenjilkkk.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kenjilkkk.github.io/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desenvolvimento de Expense Tracker com Express.js</title>
-      <link>http://localhost:1313/posts/expense/</link>
+      <link>https://kenjilkkk.github.io/posts/expense/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/expense/</guid>
+      <guid>https://kenjilkkk.github.io/posts/expense/</guid>
       <description>&lt;p&gt;Com o objetivo de aprimorar meus conhecimentos em desenvolvimento web backend, desenvolvi um &lt;strong&gt;Expense Tracker&lt;/strong&gt; utilizando &lt;strong&gt;Node.js&lt;/strong&gt; e &lt;strong&gt;Express.js&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;O projeto permite aos usuários:&lt;/p&gt;
 &lt;ul&gt;
