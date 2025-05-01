@@ -2,23 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Node.js on Meu Portofólio</title>
-    <link>https://kenjilkkk.github.io/tags/node.js/</link>
+    <link>http://localhost:1313/tags/node.js/</link>
     <description>Recent content in Node.js on Meu Portofólio</description>
     <image>
       <title>Meu Portofólio</title>
-      <url>https://kenjilkkk.github.io/images/papermod-cover.png</url>
-      <link>https://kenjilkkk.github.io/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kenjilkkk.github.io/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Construção de um Servidor Proxy com Cache em Node.js</title>
+      <link>http://localhost:1313/posts/proxy/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/proxy/</guid>
+      <description>&lt;p&gt;Com o objetivo de aprofundar meus conhecimentos em redes, HTTP e desenvolvimento de ferramentas em linha de comando, desenvolvi o &lt;strong&gt;caching-proxy&lt;/strong&gt;, um servidor proxy com cache local em Node.js.&lt;/p&gt;
+&lt;p&gt;O projeto permite:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Redirecionar requisições para um servidor de origem.&lt;/li&gt;
+&lt;li&gt;Armazenar respostas em cache local.&lt;/li&gt;
+&lt;li&gt;Retornar respostas do cache em chamadas repetidas.&lt;/li&gt;
+&lt;li&gt;Adicionar cabeçalhos HTTP personalizados para indicar a origem da resposta (&lt;code&gt;X-Cache: HIT&lt;/code&gt; ou &lt;code&gt;MISS&lt;/code&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tecnologias utilizadas:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Node.js&lt;/strong&gt; para lógica principal e manipulação de arquivos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Express.js&lt;/strong&gt; para criação do servidor HTTP.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commander.js&lt;/strong&gt; para parsing de argumentos via CLI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Axios&lt;/strong&gt; para fazer requisições ao servidor de origem.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;File System (fs)&lt;/strong&gt; para persistência de cache local.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Principais aprendizados:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Desenvolvimento de Expense Tracker com Express.js</title>
-      <link>https://kenjilkkk.github.io/posts/expense/</link>
+      <link>http://localhost:1313/posts/expense/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkkk.github.io/posts/expense/</guid>
+      <guid>http://localhost:1313/posts/expense/</guid>
       <description>&lt;p&gt;Com o objetivo de aprimorar meus conhecimentos em desenvolvimento web backend, desenvolvi um &lt;strong&gt;Expense Tracker&lt;/strong&gt; utilizando &lt;strong&gt;Node.js&lt;/strong&gt; e &lt;strong&gt;Express.js&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;O projeto permite aos usuários:&lt;/p&gt;
 &lt;ul&gt;
