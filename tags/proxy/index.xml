@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Proxy on Meu Portofólio</title>
-    <link>http://localhost:1313/tags/proxy/</link>
+    <link>https://kenjilkkk.github.io/tags/proxy/</link>
     <description>Recent content in Proxy on Meu Portofólio</description>
     <image>
       <title>Meu Portofólio</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://kenjilkkk.github.io/images/papermod-cover.png</url>
+      <link>https://kenjilkkk.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/proxy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kenjilkkk.github.io/tags/proxy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Construção de um Servidor Proxy com Cache em Node.js</title>
-      <link>http://localhost:1313/posts/proxy/</link>
+      <link>https://kenjilkkk.github.io/posts/proxy/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/proxy/</guid>
+      <guid>https://kenjilkkk.github.io/posts/proxy/</guid>
       <description>&lt;p&gt;Com o objetivo de aprofundar meus conhecimentos em redes, HTTP e desenvolvimento de ferramentas em linha de comando, desenvolvi o &lt;strong&gt;caching-proxy&lt;/strong&gt;, um servidor proxy com cache local em Node.js.&lt;/p&gt;
 &lt;p&gt;O projeto permite:&lt;/p&gt;
 &lt;ul&gt;
