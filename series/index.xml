@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Meu Portofólio</title>
-    <link>https://example.org/series/</link>
+    <link>https://kenjilkk.github.io/series/</link>
     <description>Recent content in Series on Meu Portofólio</description>
     <image>
       <title>Meu Portofólio</title>
-      <url>https://example.org/images/papermod-cover.png</url>
-      <link>https://example.org/images/papermod-cover.png</link>
+      <url>https://kenjilkk.github.io/images/papermod-cover.png</url>
+      <link>https://kenjilkk.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <atom:link href="https://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kenjilkk.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
