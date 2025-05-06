@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://kenjilkk.github.io/sitemap.xml
+Sitemap: https://kenjilkkk.github.io/sitemap.xml

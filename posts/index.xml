@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Meu Portofólio</title>
-    <link>https://kenjilkk.github.io/posts/</link>
+    <link>https://kenjilkkk.github.io/posts/</link>
     <description>Recent content in Posts on Meu Portofólio</description>
     <image>
       <title>Meu Portofólio</title>
-      <url>https://kenjilkk.github.io/images/papermod-cover.png</url>
-      <link>https://kenjilkk.github.io/images/papermod-cover.png</link>
+      <url>https://kenjilkkk.github.io/images/papermod-cover.png</url>
+      <link>https://kenjilkkk.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kenjilkk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kenjilkkk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>md2html-checker: Checagem Ortográfica de Markdown com Node.js</title>
-      <link>https://kenjilkk.github.io/posts/md2html/</link>
+      <link>https://kenjilkkk.github.io/posts/md2html/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkk.github.io/posts/md2html/</guid>
+      <guid>https://kenjilkkk.github.io/posts/md2html/</guid>
       <description>&lt;p&gt;Para praticar desenvolvimento de backend com Node.js e resolver um problema real que enfrento ao escrever documentação, criei o &lt;strong&gt;md2html-checker&lt;/strong&gt; — uma ferramenta simples que faz &lt;strong&gt;checagem ortográfica de arquivos Markdown (.md)&lt;/strong&gt; em português e gera um &lt;strong&gt;preview em HTML&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;o-projeto-permite&#34;&gt;O projeto permite:&lt;/h3&gt;
 &lt;ul&gt;
@@ -54,9 +54,9 @@
     </item>
     <item>
       <title>Construção de um Servidor Proxy com Cache em Node.js</title>
-      <link>https://kenjilkk.github.io/posts/proxy/</link>
+      <link>https://kenjilkkk.github.io/posts/proxy/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkk.github.io/posts/proxy/</guid>
+      <guid>https://kenjilkkk.github.io/posts/proxy/</guid>
       <description>&lt;p&gt;Com o objetivo de aprofundar meus conhecimentos em redes, HTTP e desenvolvimento de ferramentas em linha de comando, desenvolvi o &lt;strong&gt;caching-proxy&lt;/strong&gt;, um servidor proxy com cache local em Node.js.&lt;/p&gt;
 &lt;p&gt;O projeto permite:&lt;/p&gt;
 &lt;ul&gt;
@@ -77,9 +77,9 @@
     </item>
     <item>
       <title>Desenvolvimento de Expense Tracker com Express.js</title>
-      <link>https://kenjilkk.github.io/posts/expense/</link>
+      <link>https://kenjilkkk.github.io/posts/expense/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkk.github.io/posts/expense/</guid>
+      <guid>https://kenjilkkk.github.io/posts/expense/</guid>
       <description>&lt;p&gt;Com o objetivo de aprimorar meus conhecimentos em desenvolvimento web backend, desenvolvi um &lt;strong&gt;Expense Tracker&lt;/strong&gt; utilizando &lt;strong&gt;Node.js&lt;/strong&gt; e &lt;strong&gt;Express.js&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;O projeto permite aos usuários:&lt;/p&gt;
 &lt;ul&gt;
