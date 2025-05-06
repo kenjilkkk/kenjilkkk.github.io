@@ -2,72 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Meu Portofólio</title>
-    <link>https://kenjilkkk.github.io/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Meu Portofólio</description>
     <image>
       <title>Meu Portofólio</title>
-      <url>https://kenjilkkk.github.io/images/papermod-cover.png</url>
-      <link>https://kenjilkkk.github.io/images/papermod-cover.png</link>
+      <url>https://example.org/images/papermod-cover.png</url>
+      <link>https://example.org/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kenjilkkk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CLI</title>
-      <link>https://kenjilkkk.github.io/tags/cli/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkkk.github.io/tags/cli/</guid>
+      <title>Express</title>
+      <link>https://example.org/tags/express/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/express/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://example.org/tags/markdown/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Node.js</title>
-      <link>https://kenjilkkk.github.io/tags/node.js/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkkk.github.io/tags/node.js/</guid>
+      <link>https://example.org/tags/node.js/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/node.js/</guid>
       <description></description>
     </item>
     <item>
       <title>Projetos Pessoais</title>
-      <link>https://kenjilkkk.github.io/tags/projetos-pessoais/</link>
+      <link>https://example.org/tags/projetos-pessoais/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/projetos-pessoais/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spellcheck</title>
+      <link>https://example.org/tags/spellcheck/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/spellcheck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CLI</title>
+      <link>https://example.org/tags/cli/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkkk.github.io/tags/projetos-pessoais/</guid>
+      <guid>https://example.org/tags/cli/</guid>
       <description></description>
     </item>
     <item>
       <title>Proxy</title>
-      <link>https://kenjilkkk.github.io/tags/proxy/</link>
+      <link>https://example.org/tags/proxy/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkkk.github.io/tags/proxy/</guid>
+      <guid>https://example.org/tags/proxy/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>https://kenjilkkk.github.io/tags/web-development/</link>
+      <link>https://example.org/tags/web-development/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkkk.github.io/tags/web-development/</guid>
+      <guid>https://example.org/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>API REST</title>
-      <link>https://kenjilkkk.github.io/tags/api-rest/</link>
+      <link>https://example.org/tags/api-rest/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkkk.github.io/tags/api-rest/</guid>
+      <guid>https://example.org/tags/api-rest/</guid>
       <description></description>
     </item>
     <item>
       <title>Express.js</title>
-      <link>https://kenjilkkk.github.io/tags/express.js/</link>
+      <link>https://example.org/tags/express.js/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkkk.github.io/tags/express.js/</guid>
+      <guid>https://example.org/tags/express.js/</guid>
       <description></description>
     </item>
     <item>
       <title>Expressjs</title>
-      <link>https://kenjilkkk.github.io/tags/expressjs/</link>
+      <link>https://example.org/tags/expressjs/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://kenjilkkk.github.io/tags/expressjs/</guid>
+      <guid>https://example.org/tags/expressjs/</guid>
       <description></description>
     </item>
   </channel>

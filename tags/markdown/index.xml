@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Node.js on Meu Portofólio</title>
-    <link>https://example.org/tags/node.js/</link>
-    <description>Recent content in Node.js on Meu Portofólio</description>
+    <title>Markdown on Meu Portofólio</title>
+    <link>https://example.org/tags/markdown/</link>
+    <description>Recent content in Markdown on Meu Portofólio</description>
     <image>
       <title>Meu Portofólio</title>
       <url>https://example.org/images/papermod-cover.png</url>
@@ -13,7 +13,7 @@
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>md2html-checker: Checagem Ortográfica de Markdown com Node.js</title>
       <link>https://example.org/posts/md2html/</link>
@@ -51,50 +51,6 @@
 &lt;li&gt;Refatoração para separar rotas, lógica de spellcheck e renderização&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;link-para-o-meu-projeto&#34;&gt;Link para o meu &lt;a href=&#34;https://github.com/kenjilkkk/md2html-checker&#34;&gt;projeto&lt;/a&gt;&lt;/h3&gt;</description>
-    </item>
-    <item>
-      <title>Construção de um Servidor Proxy com Cache em Node.js</title>
-      <link>https://example.org/posts/proxy/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/proxy/</guid>
-      <description>&lt;p&gt;Com o objetivo de aprofundar meus conhecimentos em redes, HTTP e desenvolvimento de ferramentas em linha de comando, desenvolvi o &lt;strong&gt;caching-proxy&lt;/strong&gt;, um servidor proxy com cache local em Node.js.&lt;/p&gt;
-&lt;p&gt;O projeto permite:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Redirecionar requisições para um servidor de origem.&lt;/li&gt;
-&lt;li&gt;Armazenar respostas em cache local.&lt;/li&gt;
-&lt;li&gt;Retornar respostas do cache em chamadas repetidas.&lt;/li&gt;
-&lt;li&gt;Adicionar cabeçalhos HTTP personalizados para indicar a origem da resposta (&lt;code&gt;X-Cache: HIT&lt;/code&gt; ou &lt;code&gt;MISS&lt;/code&gt;).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Tecnologias utilizadas:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Node.js&lt;/strong&gt; para lógica principal e manipulação de arquivos.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Express.js&lt;/strong&gt; para criação do servidor HTTP.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Commander.js&lt;/strong&gt; para parsing de argumentos via CLI.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Axios&lt;/strong&gt; para fazer requisições ao servidor de origem.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;File System (fs)&lt;/strong&gt; para persistência de cache local.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Principais aprendizados:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Desenvolvimento de Expense Tracker com Express.js</title>
-      <link>https://example.org/posts/expense/</link>
-      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/expense/</guid>
-      <description>&lt;p&gt;Com o objetivo de aprimorar meus conhecimentos em desenvolvimento web backend, desenvolvi um &lt;strong&gt;Expense Tracker&lt;/strong&gt; utilizando &lt;strong&gt;Node.js&lt;/strong&gt; e &lt;strong&gt;Express.js&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;O projeto permite aos usuários:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Cadastrar entradas de despesas.&lt;/li&gt;
-&lt;li&gt;Visualizar o total de gastos acumulados.&lt;/li&gt;
-&lt;li&gt;Editar e excluir transações existentes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Tecnologias utilizadas:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Express.js&lt;/strong&gt; para criação do servidor e das rotas.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Criação de API REST&lt;/strong&gt; seguindo o padrão CRUD (Create, Read, Update, Delete).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;HTML/CSS&lt;/strong&gt; básico para a interface inicial.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;JSON&lt;/strong&gt; para armazenamento dos dados (planejo migrar para banco de dados futuramente).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Principais aprendizados:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,23 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projetos Pessoais on Meu Portofólio</title>
-    <link>https://kenjilkkk.github.io/tags/projetos-pessoais/</link>
+    <link>https://example.org/tags/projetos-pessoais/</link>
     <description>Recent content in Projetos Pessoais on Meu Portofólio</description>
     <image>
       <title>Meu Portofólio</title>
-      <url>https://kenjilkkk.github.io/images/papermod-cover.png</url>
-      <link>https://kenjilkkk.github.io/images/papermod-cover.png</link>
+      <url>https://example.org/images/papermod-cover.png</url>
+      <link>https://example.org/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kenjilkkk.github.io/tags/projetos-pessoais/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/projetos-pessoais/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>md2html-checker: Checagem Ortográfica de Markdown com Node.js</title>
+      <link>https://example.org/posts/md2html/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/md2html/</guid>
+      <description>&lt;p&gt;Para praticar desenvolvimento de backend com Node.js e resolver um problema real que enfrento ao escrever documentação, criei o &lt;strong&gt;md2html-checker&lt;/strong&gt; — uma ferramenta simples que faz &lt;strong&gt;checagem ortográfica de arquivos Markdown (.md)&lt;/strong&gt; em português e gera um &lt;strong&gt;preview em HTML&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;o-projeto-permite&#34;&gt;O projeto permite:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fazer upload de um arquivo &lt;code&gt;.md&lt;/code&gt; via interface web&lt;/li&gt;
+&lt;li&gt;Identificar erros ortográficos no conteúdo (sem sugerir correções)&lt;/li&gt;
+&lt;li&gt;Gerar e exibir a versão HTML equivalente do Markdown processado&lt;/li&gt;
+&lt;li&gt;Rodar localmente em &lt;code&gt;localhost:3000&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-tecnologias-utilizadas&#34;&gt;🛠 Tecnologias utilizadas:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Node.js&lt;/strong&gt; para o servidor principal&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Express.js&lt;/strong&gt; para rotas HTTP e manipulação de arquivos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;marked&lt;/strong&gt; para conversão de Markdown em HTML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spell-checker.js&lt;/strong&gt; para verificação ortográfica em português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTML + JS básico&lt;/strong&gt; para interface de upload e visualização&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-principais-aprendizados&#34;&gt;📚 Principais aprendizados:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Processamento de texto e conversão Markdown → HTML no backend&lt;/li&gt;
+&lt;li&gt;Integração de ferramentas de verificação ortográfica em português&lt;/li&gt;
+&lt;li&gt;Manipulação de arquivos via upload em servidores Express&lt;/li&gt;
+&lt;li&gt;Criação de um fluxo simples com entrada do usuário, análise e resposta estruturada&lt;/li&gt;
+&lt;li&gt;Prática de desenvolvimento web com foco em backend&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-melhorias-planejadas&#34;&gt;🔧 Melhorias planejadas:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Destacar os erros diretamente no preview HTML&lt;/li&gt;
+&lt;li&gt;Suporte a múltiplos arquivos em sequência&lt;/li&gt;
+&lt;li&gt;Logs de análise e estatísticas básicas de erros&lt;/li&gt;
+&lt;li&gt;Refatoração para separar rotas, lógica de spellcheck e renderização&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;link-para-o-meu-projeto&#34;&gt;Link para o meu &lt;a href=&#34;https://github.com/kenjilkkk/md2html-checker&#34;&gt;projeto&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
     <item>
       <title>Construção de um Servidor Proxy com Cache em Node.js</title>
-      <link>https://kenjilkkk.github.io/posts/proxy/</link>
+      <link>https://example.org/posts/proxy/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkkk.github.io/posts/proxy/</guid>
+      <guid>https://example.org/posts/proxy/</guid>
       <description>&lt;p&gt;Com o objetivo de aprofundar meus conhecimentos em redes, HTTP e desenvolvimento de ferramentas em linha de comando, desenvolvi o &lt;strong&gt;caching-proxy&lt;/strong&gt;, um servidor proxy com cache local em Node.js.&lt;/p&gt;
 &lt;p&gt;O projeto permite:&lt;/p&gt;
 &lt;ul&gt;
@@ -39,9 +77,9 @@
     </item>
     <item>
       <title>Desenvolvimento de Expense Tracker com Express.js</title>
-      <link>https://kenjilkkk.github.io/posts/expense/</link>
+      <link>https://example.org/posts/expense/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://kenjilkkk.github.io/posts/expense/</guid>
+      <guid>https://example.org/posts/expense/</guid>
       <description>&lt;p&gt;Com o objetivo de aprimorar meus conhecimentos em desenvolvimento web backend, desenvolvi um &lt;strong&gt;Expense Tracker&lt;/strong&gt; utilizando &lt;strong&gt;Node.js&lt;/strong&gt; e &lt;strong&gt;Express.js&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;O projeto permite aos usuários:&lt;/p&gt;
 &lt;ul&gt;
